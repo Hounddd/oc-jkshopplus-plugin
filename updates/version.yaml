@@ -1,0 +1,10 @@
+1.0.1: First version of JkShopPlus
+1.0.2: Add mini basket
+1.0.3: 
+    - Add Countries
+    - create_countries_table.php
+    - create_carriers_countries_table.php
+    - seed_countries.php
+1.0.4:
+    - Add payment gateways description field
+    - add_paymentgateway_desc.php
